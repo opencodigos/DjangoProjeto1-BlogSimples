@@ -41,6 +41,8 @@ Vamos desenvolver um Blog com Django. Para conhecer mais a plataforma e conceito
     pip freeze > requirements.txt
     ```
     
+</details>
+
 <details><summary><b>Criando o Projeto</b></summary>
 
 - **Criando o Projeto**
