@@ -1,13 +1,10 @@
-/tmp
-passenger_wsgi.py 
+/tmp 
 .venv
-db.sqlite3
-/static_media
+db.sqlite3 
 static_media
 /static_files
 static_files
 /media
-mydatabase
-file_name.sql
 __pycache__ 
-__pycache__/ 
+__pycache__/
+/__pycache__/
